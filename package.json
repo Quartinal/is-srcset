@@ -1,0 +1,15 @@
+{
+    "name": "is-srcset",
+    "license": "MIT",
+    "version": "0.1.0",
+    "exports": {
+        "types": "./index.d.ts",
+        "default": "./index.js"
+    },
+    "author": {
+        "name": "Jasper Quartarolo",
+        "email": "prehistorical.dinosaurs@outlook.com"
+    },
+    "type": "module",
+    "description": "Checks if a string is a valid HTML srcset attribute"
+}
